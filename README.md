@@ -180,40 +180,39 @@ The **19–24 age group** showed a strong concentration of spending in the **Gro
 
 ## Project Workflow
 
-```marksdown
-Data Loading
-     ↓
-Data Quality Check
-     ↓
-Feature Engineering
-     ↓
-Overall Sales Analysis
-     ↓
-Household Analysis
-     ↓
-Product Analysis
-     ↓
-Time-Based Analysis
-     ↓
-Demographic Analysis
-     ↓
-Product × Demographic Analysis
-     ↓
+Data Loading  
+↓  
+Data Quality Check  
+↓  
+Feature Engineering  
+↓  
+Overall Sales Analysis  
+↓  
+Household Analysis  
+↓  
+Product Analysis  
+↓  
+Time-Based Analysis  
+↓  
+Demographic Analysis  
+↓  
+Product × Demographic Analysis  
+↓  
 Business Insights & Recommendations
 
+---
 
-## Run the Project
+## How to Run
 
-1. Open the notebook using the **Open in Colab** button above.
-2. Run the notebook cells from top to bottom.
-3. The required datasets are downloaded automatically during notebook execution.
-4. No manual dataset upload is required.
+1. Click the **Open in Colab** button at the top of this README.
+2. Open the notebook in Google Colab.
+3. Run the notebook from top to bottom.
+4. The required datasets are downloaded automatically during execution.
+5. Explore the analysis, visualizations, findings, and business recommendations.
 
-Ayush Antil
+---
 
-Data Science | Python | SQL | Machine Learning | Data Analytics
+## Project Structure
 
-
-**Important:** Do not change anything above `## Project Workflow`.
-
-After replacing this section, **don't commit yet**. Tell me **“replaced”**, and I'll check the next step with you.
+- `README.md` — Project documentation
+- `maven_mega_mart.ipynb` — Complete analysis notebook
