@@ -180,7 +180,7 @@ The **19–24 age group** showed a strong concentration of spending in the **Gro
 
 ## Project Workflow
 
-```text
+```marksdown
 Data Loading
      ↓
 Data Quality Check
