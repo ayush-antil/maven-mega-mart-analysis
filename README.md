@@ -200,3 +200,11 @@ Demographic Analysis
 Product × Demographic Analysis
      ↓
 Business Insights & Recommendations
+
+
+## Run the Project
+
+1. Open the notebook using the **Open in Colab** button above.
+2. Run the notebook cells from top to bottom.
+3. The required SQLite database is downloaded automatically during notebook execution.
+4. No manual dataset upload is required.
