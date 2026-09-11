@@ -180,6 +180,7 @@ The **19–24 age group** showed a strong concentration of spending in the **Gro
 
 ## Project Workflow
 
+```text
 Data Loading
      ↓
 Data Quality Check
@@ -205,5 +206,14 @@ Business Insights & Recommendations
 
 1. Open the notebook using the **Open in Colab** button above.
 2. Run the notebook cells from top to bottom.
-3. The required SQLite database is downloaded automatically during notebook execution.
+3. The required datasets are downloaded automatically during notebook execution.
 4. No manual dataset upload is required.
+
+Ayush Antil
+
+Data Science | Python | SQL | Machine Learning | Data Analytics
+
+
+**Important:** Do not change anything above `## Project Workflow`.
+
+After replacing this section, **don't commit yet**. Tell me **“replaced”**, and I'll check the next step with you.
