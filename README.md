@@ -1,7 +1,7 @@
 # Maven Mega Mart: Transaction & Customer Analysis
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QssuOdz0qw9P2x7bWPvk4ThOI-BFFTrm)
-
+ 
 ## Project Overview
 
 This project analyzes over **2.1 million retail transaction records** from Maven Mega Mart to understand purchasing behavior, sales performance, discount patterns, product performance, and customer spending trends.
